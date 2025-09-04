@@ -1,0 +1,14 @@
+.product-button {
+    display: block;
+    background-color: $button-primary-color;
+    color: $text-color;
+    text-align: center;
+    padding: $product-button-padding;
+    border-radius: 8px;
+    margin-top: $product-button-margin-top;
+    text-decoration: none;
+    
+    &:hover {
+        background-color: $button-hover-color;
+    }
+}
