@@ -95,4 +95,22 @@ section {
   }
 }
 
-/*# sourceMappingURL=main.css.map */
+footer {
+  background-color: #3c5496;
+  padding: 16px 0;
+  margin-top: 40px;
+} 
+
+footer p {
+  text-align: center;
+  color: #fff;
+}
+footer p a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}   
+footer p a:hover {
+  text-decoration: underline;
+}
+  
